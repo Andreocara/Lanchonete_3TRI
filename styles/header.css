@@ -3,4 +3,8 @@ cabeçalho__menu-hamburger{
     height: 24px;
     background-image: url("../img/menu.svg");
     display: inline-block;
+} 
+
+.cabeçalho{
+    background-color: var(--branco);
 }
